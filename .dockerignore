@@ -1,0 +1,11 @@
+# Exclude files and directories commonly not needed in a Docker image
+.git
+.vscode
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+.DS_Store
